@@ -1,5 +1,5 @@
 <?php
-$host = "localhostmysql-johnxito.alwaysdata.net";
+$host = "mysql-johnxito.alwaysdata.net";
 $usuario = "johnxito";
 $password = "clase1234";
 $bd = "johnxito_gestion_envios";
